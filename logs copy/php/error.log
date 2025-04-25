@@ -1,0 +1,185 @@
+[22-Apr-2025 11:11:15 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-includes/class-wp-customize-widgets.php on line 926
+[22-Apr-2025 11:43:49 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-home.php on line 6
+[22-Apr-2025 11:43:59 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-home.php on line 6
+[22-Apr-2025 11:44:00 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-home.php on line 6
+[22-Apr-2025 11:44:01 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-home.php on line 6
+[22-Apr-2025 11:44:18 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-home.php on line 6
+[22-Apr-2025 11:44:25 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-home.php on line 6
+[24-Apr-2025 08:27:00 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-my-work.php:21
+Stack trace:
+#0 /Users/polinabarannyk/Local Sites/my-site/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/polinabarannyk/Local Sites/my-site/app/public/wp-blog-header.php(19): require_once('/Users/polinaba...')
+#2 /Users/polinabarannyk/Local Sites/my-site/app/public/index.php(17): require('/Users/polinaba...')
+#3 {main}
+  thrown in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-my-work.php on line 21
+[24-Apr-2025 08:27:32 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-my-work.php:21
+Stack trace:
+#0 /Users/polinabarannyk/Local Sites/my-site/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/polinabarannyk/Local Sites/my-site/app/public/wp-blog-header.php(19): require_once('/Users/polinaba...')
+#2 /Users/polinabarannyk/Local Sites/my-site/app/public/index.php(17): require('/Users/polinaba...')
+#3 {main}
+  thrown in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-my-work.php on line 21
+[24-Apr-2025 08:28:27 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-my-work.php:21
+Stack trace:
+#0 /Users/polinabarannyk/Local Sites/my-site/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/polinabarannyk/Local Sites/my-site/app/public/wp-blog-header.php(19): require_once('/Users/polinaba...')
+#2 /Users/polinabarannyk/Local Sites/my-site/app/public/index.php(17): require('/Users/polinaba...')
+#3 {main}
+  thrown in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-my-work.php on line 21
+[24-Apr-2025 08:31:01 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-my-work.php:21
+Stack trace:
+#0 /Users/polinabarannyk/Local Sites/my-site/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/polinabarannyk/Local Sites/my-site/app/public/wp-blog-header.php(19): require_once('/Users/polinaba...')
+#2 /Users/polinabarannyk/Local Sites/my-site/app/public/index.php(17): require('/Users/polinaba...')
+#3 {main}
+  thrown in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-my-work.php on line 21
+[24-Apr-2025 08:31:03 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-my-work.php:21
+Stack trace:
+#0 /Users/polinabarannyk/Local Sites/my-site/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/polinabarannyk/Local Sites/my-site/app/public/wp-blog-header.php(19): require_once('/Users/polinaba...')
+#2 /Users/polinabarannyk/Local Sites/my-site/app/public/index.php(17): require('/Users/polinaba...')
+#3 {main}
+  thrown in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-my-work.php on line 21
+[24-Apr-2025 08:31:09 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-my-work.php:21
+Stack trace:
+#0 /Users/polinabarannyk/Local Sites/my-site/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/polinabarannyk/Local Sites/my-site/app/public/wp-blog-header.php(19): require_once('/Users/polinaba...')
+#2 /Users/polinabarannyk/Local Sites/my-site/app/public/index.php(17): require('/Users/polinaba...')
+#3 {main}
+  thrown in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-my-work.php on line 21
+[24-Apr-2025 08:31:10 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-my-work.php:21
+Stack trace:
+#0 /Users/polinabarannyk/Local Sites/my-site/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/polinabarannyk/Local Sites/my-site/app/public/wp-blog-header.php(19): require_once('/Users/polinaba...')
+#2 /Users/polinabarannyk/Local Sites/my-site/app/public/index.php(17): require('/Users/polinaba...')
+#3 {main}
+  thrown in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-my-work.php on line 21
+[24-Apr-2025 08:31:12 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-my-work.php:21
+Stack trace:
+#0 /Users/polinabarannyk/Local Sites/my-site/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/polinabarannyk/Local Sites/my-site/app/public/wp-blog-header.php(19): require_once('/Users/polinaba...')
+#2 /Users/polinabarannyk/Local Sites/my-site/app/public/index.php(17): require('/Users/polinaba...')
+#3 {main}
+  thrown in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-my-work.php on line 21
+[24-Apr-2025 08:31:12 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-my-work.php:21
+Stack trace:
+#0 /Users/polinabarannyk/Local Sites/my-site/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/polinabarannyk/Local Sites/my-site/app/public/wp-blog-header.php(19): require_once('/Users/polinaba...')
+#2 /Users/polinabarannyk/Local Sites/my-site/app/public/index.php(17): require('/Users/polinaba...')
+#3 {main}
+  thrown in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-my-work.php on line 21
+[24-Apr-2025 08:31:12 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-my-work.php:21
+Stack trace:
+#0 /Users/polinabarannyk/Local Sites/my-site/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/polinabarannyk/Local Sites/my-site/app/public/wp-blog-header.php(19): require_once('/Users/polinaba...')
+#2 /Users/polinabarannyk/Local Sites/my-site/app/public/index.php(17): require('/Users/polinaba...')
+#3 {main}
+  thrown in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-my-work.php on line 21
+[24-Apr-2025 08:31:12 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-my-work.php:21
+Stack trace:
+#0 /Users/polinabarannyk/Local Sites/my-site/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/polinabarannyk/Local Sites/my-site/app/public/wp-blog-header.php(19): require_once('/Users/polinaba...')
+#2 /Users/polinabarannyk/Local Sites/my-site/app/public/index.php(17): require('/Users/polinaba...')
+#3 {main}
+  thrown in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-my-work.php on line 21
+[24-Apr-2025 08:31:12 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-my-work.php:21
+Stack trace:
+#0 /Users/polinabarannyk/Local Sites/my-site/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/polinabarannyk/Local Sites/my-site/app/public/wp-blog-header.php(19): require_once('/Users/polinaba...')
+#2 /Users/polinabarannyk/Local Sites/my-site/app/public/index.php(17): require('/Users/polinaba...')
+#3 {main}
+  thrown in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-my-work.php on line 21
+[24-Apr-2025 08:31:13 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-my-work.php:21
+Stack trace:
+#0 /Users/polinabarannyk/Local Sites/my-site/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/polinabarannyk/Local Sites/my-site/app/public/wp-blog-header.php(19): require_once('/Users/polinaba...')
+#2 /Users/polinabarannyk/Local Sites/my-site/app/public/index.php(17): require('/Users/polinaba...')
+#3 {main}
+  thrown in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-my-work.php on line 21
+[24-Apr-2025 08:36:05 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-my-work.php:54
+Stack trace:
+#0 /Users/polinabarannyk/Local Sites/my-site/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/polinabarannyk/Local Sites/my-site/app/public/wp-blog-header.php(19): require_once('/Users/polinaba...')
+#2 /Users/polinabarannyk/Local Sites/my-site/app/public/index.php(17): require('/Users/polinaba...')
+#3 {main}
+  thrown in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-my-work.php on line 54
+[24-Apr-2025 08:37:12 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-my-work.php:54
+Stack trace:
+#0 /Users/polinabarannyk/Local Sites/my-site/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/polinabarannyk/Local Sites/my-site/app/public/wp-blog-header.php(19): require_once('/Users/polinaba...')
+#2 /Users/polinabarannyk/Local Sites/my-site/app/public/index.php(17): require('/Users/polinaba...')
+#3 {main}
+  thrown in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-my-work.php on line 54
+[24-Apr-2025 08:37:14 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-my-work.php:54
+Stack trace:
+#0 /Users/polinabarannyk/Local Sites/my-site/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/polinabarannyk/Local Sites/my-site/app/public/wp-blog-header.php(19): require_once('/Users/polinaba...')
+#2 /Users/polinabarannyk/Local Sites/my-site/app/public/index.php(17): require('/Users/polinaba...')
+#3 {main}
+  thrown in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-my-work.php on line 54
+[24-Apr-2025 08:37:31 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-my-work.php:54
+Stack trace:
+#0 /Users/polinabarannyk/Local Sites/my-site/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/polinabarannyk/Local Sites/my-site/app/public/wp-blog-header.php(19): require_once('/Users/polinaba...')
+#2 /Users/polinabarannyk/Local Sites/my-site/app/public/index.php(17): require('/Users/polinaba...')
+#3 {main}
+  thrown in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-my-work.php on line 54
+[24-Apr-2025 08:37:32 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-my-work.php:54
+Stack trace:
+#0 /Users/polinabarannyk/Local Sites/my-site/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/polinabarannyk/Local Sites/my-site/app/public/wp-blog-header.php(19): require_once('/Users/polinaba...')
+#2 /Users/polinabarannyk/Local Sites/my-site/app/public/index.php(17): require('/Users/polinaba...')
+#3 {main}
+  thrown in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-my-work.php on line 54
+[24-Apr-2025 08:39:44 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-my-work.php:54
+Stack trace:
+#0 /Users/polinabarannyk/Local Sites/my-site/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/polinabarannyk/Local Sites/my-site/app/public/wp-blog-header.php(19): require_once('/Users/polinaba...')
+#2 /Users/polinabarannyk/Local Sites/my-site/app/public/index.php(17): require('/Users/polinaba...')
+#3 {main}
+  thrown in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-my-work.php on line 54
+[24-Apr-2025 08:39:48 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-my-work.php:54
+Stack trace:
+#0 /Users/polinabarannyk/Local Sites/my-site/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/polinabarannyk/Local Sites/my-site/app/public/wp-blog-header.php(19): require_once('/Users/polinaba...')
+#2 /Users/polinabarannyk/Local Sites/my-site/app/public/index.php(17): require('/Users/polinaba...')
+#3 {main}
+  thrown in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-my-work.php on line 54
+[24-Apr-2025 08:47:22 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-my-work.php:61
+Stack trace:
+#0 /Users/polinabarannyk/Local Sites/my-site/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/polinabarannyk/Local Sites/my-site/app/public/wp-blog-header.php(19): require_once('/Users/polinaba...')
+#2 /Users/polinabarannyk/Local Sites/my-site/app/public/index.php(17): require('/Users/polinaba...')
+#3 {main}
+  thrown in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-my-work.php on line 61
+[24-Apr-2025 08:49:35 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-my-work.php:60
+Stack trace:
+#0 /Users/polinabarannyk/Local Sites/my-site/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/polinabarannyk/Local Sites/my-site/app/public/wp-blog-header.php(19): require_once('/Users/polinaba...')
+#2 /Users/polinabarannyk/Local Sites/my-site/app/public/index.php(17): require('/Users/polinaba...')
+#3 {main}
+  thrown in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-my-work.php on line 60
+[24-Apr-2025 08:49:36 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-my-work.php:60
+Stack trace:
+#0 /Users/polinabarannyk/Local Sites/my-site/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/polinabarannyk/Local Sites/my-site/app/public/wp-blog-header.php(19): require_once('/Users/polinaba...')
+#2 /Users/polinabarannyk/Local Sites/my-site/app/public/index.php(17): require('/Users/polinaba...')
+#3 {main}
+  thrown in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-my-work.php on line 60
+[24-Apr-2025 08:49:37 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-my-work.php:60
+Stack trace:
+#0 /Users/polinabarannyk/Local Sites/my-site/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/polinabarannyk/Local Sites/my-site/app/public/wp-blog-header.php(19): require_once('/Users/polinaba...')
+#2 /Users/polinabarannyk/Local Sites/my-site/app/public/index.php(17): require('/Users/polinaba...')
+#3 {main}
+  thrown in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-my-work.php on line 60
+[24-Apr-2025 08:53:19 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-my-work.php:67
+Stack trace:
+#0 /Users/polinabarannyk/Local Sites/my-site/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/polinabarannyk/Local Sites/my-site/app/public/wp-blog-header.php(19): require_once('/Users/polinaba...')
+#2 /Users/polinabarannyk/Local Sites/my-site/app/public/index.php(17): require('/Users/polinaba...')
+#3 {main}
+  thrown in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-my-work.php on line 67
+[24-Apr-2025 11:14:32 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-content/themes/my-portfolio/page-mywork.php on line 150
+[25-Apr-2025 08:57:54 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-includes/class-wp-customize-widgets.php on line 926
+[25-Apr-2025 09:01:55 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/polinabarannyk/Local Sites/my-site/app/public/wp-includes/class-wp-customize-widgets.php on line 926

@@ -1,0 +1,1341 @@
+/*
+Theme Name: My Portfolio
+Author: Polina Barannyk
+Version: 1.0
+Description: A custom theme for my portfolio site.
+*/
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  /* style.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Playwright+US+Trad&display=swap'); /* Подключение шрифта */
+
+  .main-nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #86A788;
+    padding: 20px 40px;
+    font-family: 'Playwright US Trad', serif; /* Твой шрифт */
+  }
+  
+  .nav-logo img {
+    height: 50px;
+    width: auto;
+  }
+  
+  .nav-links {
+    list-style: none;
+    display: flex;
+    gap: 40px;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .nav-links li a {
+    text-decoration: none;
+    color: #f4c2c2 ;
+    font-weight: bold;
+    font-size: 1.2rem;
+    transition: color 0.3s ease;
+  }
+  
+  .nav-links li a:hover {
+    color: #597a5b;
+  }
+  
+  main {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  
+
+
+
+
+
+
+
+
+  
+  /* Основные стили */
+  @import url('https://fonts.googleapis.com/css2?family=Playwright+US+Trad&display=swap'); /* Подключение шрифта */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #FFFEF9;
+  }
+  
+  header-box {
+    background-color: #FFF3EF;
+    text-align: center;
+    padding: 20px;
+    width: 1000px;
+    height: 300px;
+   display: grid;
+   margin-left: 228px;
+   margin-top: 50px;
+   border-radius: 10px;
+  }
+  head-box-text{ 
+    display: flex;
+  align-items: center;
+  justify-content: space-around;
+  }
+  
+  head-box-text h1 {
+    color: #86A788;
+    font-size: 2rem;
+    font-family: 'Playwright US Trad', serif; /* Новый шрифт */
+  }
+  
+  .buttons {
+    margin-top: 0px;
+  }
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  .button {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px 20px;
+    background-color: #f4c2c2;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    font-family: 'Playwright US Trad', serif;
+  }
+  
+  .button:hover {
+    background-color: #c99b9b;
+    transform: scale(1.05);
+  }
+
+  .peony-image {
+    margin: 10px 0 20px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .peony-image img {
+    height: 200px;
+    width: auto;
+    opacity: 0.9;
+  }
+  
+
+
+
+
+
+
+
+  .header-box {
+    position: relative;
+    background-color: #86A788; /* Зелёный фон */
+    width: 1510px; /* Фиксированная ширина */
+    height: 460px; /* Фиксированная высота */
+    margin: 0 auto; /* Центрирование по горизонтали */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+  }
+  
+  .text {
+    position: absolute;
+    color: #FFFEF9; /* Белый текст */
+    width: 250px; /* Ширина текстового блока */
+    text-align: center;
+    font-size: 1rem;
+  }
+  
+  .text.top-left {
+    top: 130px; /* Отступ от верхнего края */
+    left: 150px; /* Отступ от левого края */
+  }
+  
+  .text.top-right {
+    top: 130px; /* Отступ от верхнего края */
+    right: 150px; /* Отступ от правого края */
+  }
+  
+  .text.bottom-left {
+    bottom: 130px; /* Отступ от нижнего края */
+    left: 150px; /* Отступ от левого края */
+  }
+  
+  .text.bottom-right {
+    bottom: 130px; /* Отступ от нижнего края */
+    right: 150px; /* Отступ от правого края */
+  }
+  
+  .center-logo img {
+    height: 220px; /* Увеличено */
+    width: auto;
+    max-width: 100%; /* Чтобы не вышел за границы */
+  }
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+
+
+
+  head-box-text h1 {
+    color: #86A788;
+    font-size: 2rem;
+  }
+  
+  
+  
+  .button {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px 20px;
+    background-color: #f4c2c2;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1rem;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  main {
+    padding: 20px;
+  }
+  
+  @import url('https://fonts.googleapis.com/css2?family=Playwright+US+Trad&display=swap'); /* Подключение шрифта */
+
+#my-work {
+  padding: 50px 20px;
+  text-align: center;
+}
+
+.work-title {
+  margin-bottom: 50px;
+}
+
+.big-text {
+  font-size: 200px; /* Размер текста */
+  font-family: 'Playwright US Trad', serif; /* Шрифт текста */
+  font-weight: bold;
+  color: #86A788; /* Цвет текста */
+  margin: 0;
+  line-height: 1; /* Уменьшить расстояние между строками */
+}
+
+
+.categories {
+  display: grid; /* Используем grid */
+  grid-template-columns: repeat(2, 1fr); /* Две колонки */
+  gap:100px; /* Расстояние между боками */
+  justify-content: center; /* Центрируем колонки */
+  align-items: center; /* Центрируем строки */
+  margin: 50px auto; /* Добавляем автоматические отступы для центрирования */
+  max-width: 1050px; /* Ограничиваем ширину всей секции */
+}
+
+.category {
+  background-color: #86A788;
+  padding: 40px; /* Увеличиваем внутренние отступы */
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Добавляем лёгкую тень для эффекта */
+}
+
+.category h3 {
+  color: #f4c2c2;
+  font-size: 1.5rem; /* Увеличиваем размер заголовка */
+  font-family: 'Playwright US Trad', serif;
+}
+
+.more-button {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 10px 20px;
+  background-color: #f4c2c2;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 1rem;
+  transition: background-color 0.3s ease;
+  font-family: 'Playwright US Trad', serif;
+}
+
+.more-button:hover {
+  background-color: #c99b9b;
+}
+
+.section-logo {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px ;
+  margin-bottom: 40px;
+}
+
+.section-logo img {
+  height: 250px;
+  width: auto;
+}
+
+
+
+
+
+
+
+.button-block {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button-container {
+  display: flex;
+  gap: 20px;
+}
+
+.custom-button {
+  display: inline-block;
+  padding: 15px 30px;
+  background-color: #f4c2c2;
+  color: white;
+  text-decoration: none;
+  font-size: 1.2rem;
+  border-radius: 10px;
+  font-weight: bold;
+  text-align: center;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  font-family: 'Playwright US Trad', serif;
+}
+
+.custom-button:hover {
+  background-color: #c99b9b;
+  transform: scale(1.05);
+}
+
+
+
+
+
+
+
+
+
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #FFFEF9;
+}
+
+.video-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f4c2c2;
+  width: 80%;
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.video-box iframe, 
+.video-box video {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+.video-title {
+  text-align: center;
+  margin-top: 50px;
+  font-size: 1.5rem;
+  color: #86A788;
+  font-family: 'Playwright US Trad', serif;
+}
+
+
+
+
+
+
+
+
+
+
+footer {
+  background-color: #86A788;
+  padding: 20px 50px;
+  color: #000;
+  text-align: center;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 0;
+}
+
+.footer-social a {
+  margin: 0 8px;
+  font-size: 1.8rem;
+  color: #FFFEF9;
+  transition: color 0.3s ease;
+}
+
+.footer-social a:hover {
+  transform: scale(1.2);
+  color: #f4c2c2;
+}
+
+.footer-logo img {
+  height: 60px;
+  width: auto;
+}
+
+
+.footer-contact p {
+  margin: 5px 0;
+  font-size: 1rem;
+  color: #FFFEF9;
+}
+
+footer p {
+  margin-top: 20px;
+  font-size: 0.9rem;
+  color: #FFFEF9;
+  font-family: 'Playwright US Trad', serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.petal {
+  position: fixed;
+  top: -50px;
+  width: 30px;
+  height: 30px;
+  background-image: url('http://my-site.local/wp-content/uploads/2025/04/ChatGPT-Image-Apr-23-2025-at-01_36_18-PM-300x300.png'); /* розовый лепесток PNG */
+  background-size: cover;
+  pointer-events: none;
+  opacity: 0.8;
+  z-index: 9999;
+  animation-name: fall, sway;
+  animation-timing-function: linear, ease-in-out;
+  animation-duration: 12s, 8s;
+}
+
+@keyframes fall {
+  0% { top: -50px; }
+  100% { top: 110vh; }
+}
+
+@keyframes sway {
+  0% { transform: translateX(0px) rotate(0deg); }
+  50% { transform: translateX(40px) rotate(180deg); }
+  100% { transform: translateX(0px) rotate(360deg); }
+}
+
+
+/* ---------------------- */
+/* 📱 Адаптация под мобилки */
+/* ---------------------- */
+
+
+
+/* My Work*/ 
+
+.main-nav-mywork {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #86A788;
+  padding: 20px 40px;
+  font-family: 'Playwright US Trad', serif;
+}
+
+.nav-container-mywork {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.nav-logo-mywork {
+  margin-left: 0;       /* убрать отступ */
+  padding-left: 0px;   /* подвинуть ближе к краю */
+}
+
+.nav-links-mywork {
+  margin-right: 40px;
+}
+
+.nav-logo-mywork img {
+  height: 50px;
+  width: auto;
+}
+
+.nav-links-mywork {
+  list-style: none;
+  display: flex;
+  gap: 40px;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-links-mywork li a {
+  text-decoration: none;
+  color: #f4c2c2;
+  font-weight: bold;
+  font-size: 1.2rem;
+  transition: color 0.3s ease;
+}
+
+.nav-links-mywork li a:hover {
+  color: #597a5b;
+}
+
+
+
+.work-title-mywork h1 {
+  font-family: 'Playwright US Trad', serif;
+  font-size: 4rem; /* как на главной */
+  color: #f4c2c2;
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+
+
+
+
+
+
+
+html {
+  scroll-behavior: smooth;
+}
+
+
+
+.button-grid-mywork {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: nowrap; /* важное изменение: не переносить строки */
+  padding: 40px 40px;
+  background-color: #FFF3EF;
+  gap:20 px;
+ 
+}
+
+.mywork-button {
+  flex: 1;
+  text-align: center;
+  padding: 15px 20px;
+  background-color: #86A788;
+  color: white;
+  font-family: 'Playwright US Trad', serif;
+  font-weight: bold;
+  font-size: 1.2rem;
+  text-decoration: none;
+  border-radius: 10px;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  max-width: 200px;
+}
+
+.mywork-button:hover {
+  background-color: #f4c2c2;
+  transform: scale(1.05);
+}
+
+
+
+
+
+
+.logos-section-mywork {
+  
+  background-color: #FFFEF9;
+  text-align: center;
+}
+
+.logos-title {
+  font-family: 'Playwright US Trad', serif;
+  font-size: 2.5rem;
+  color: #86A788;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+
+.logos-grid {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+
+.logo-item {
+  width: 300px;
+  background-color: #FFF3EF;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+}
+
+.logo-item img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+
+
+
+
+
+.posters-section-mywork {
+  padding: 0px;
+  background-color: #FFFEF9;
+  text-align: center;
+}
+
+.posters-title {
+  font-family: 'Playwright US Trad', serif;
+  font-size: 2.5rem;
+  color: #86A788;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+
+.posters-grid {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  flex-wrap: wrap;
+}
+
+.poster-item {
+  width: 380px;
+  background-color: #FFF3EF;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+}
+
+.poster-item img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+
+
+
+
+.infographics-section-mywork {
+  padding: 0px;
+  background-color: #FFFEF9;
+  text-align: center;
+}
+
+.infographics-title {
+  font-family: 'Playwright US Trad', serif;
+  font-size: 2.5rem;
+  color: #86A788;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+
+.infographics-grid {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  flex-wrap: wrap;
+}
+
+.infographic-item {
+  width: 380px;
+  background-color: #FFF3EF;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+}
+
+.infographic-item img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+
+
+
+
+
+.uxui-section-new {
+  padding: 0px;
+  background-color: #FFFEF9;
+  text-align: center;
+}
+
+.uxui-title {
+  font-family: 'Playwright US Trad', serif;
+  font-size: 2.5rem;
+  color: #86A788;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+
+.uxui-row {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 40px;
+  margin-bottom: 40px;
+}
+
+.uxui-card {
+  width: 380px;
+  background-color: #FFF3EF;
+  padding: 15px;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+}
+
+.uxui-card img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+
+
+
+
+.footer-mywork {
+  background-color: #86A788;
+  padding: 40px 80px;
+  color: #FFFEF9;
+}
+
+.footer-inline-mywork {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  text-align: center;
+}
+
+/* Соцсети — слева */
+.footer-social-mywork {
+  flex: 1;
+  text-align: left;
+}
+
+.footer-social-mywork a {
+  margin: 0 8px;
+  font-size: 1.8rem;
+  color: #FFFEF9;
+  transition: color 0.3s ease;
+}
+
+.footer-social-mywork a:hover {
+  color: #f4c2c2;
+}
+
+/* Логотип — по центру */
+.footer-logo-mywork {
+  flex: 1;
+  text-align: center;
+}
+
+.footer-logo-mywork img {
+  height: 60px;
+  width: auto;
+}
+
+/* Контакты — справа */
+.footer-contact-mywork {
+  flex: 1;
+  text-align: right;
+}
+
+.footer-contact-mywork p {
+  margin: 5px 0;
+  font-size: 1rem;
+  font-family: 'Playwright US Trad', serif;
+}
+
+
+
+/* page about */ 
+.main-nav-about {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #86A788;
+  padding: 20px 40px;
+  font-family: 'Playwright US Trad', serif;
+}
+
+.nav-container-about {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.nav-logo-about img {
+  height: 50px;
+  width: auto;
+}
+
+.nav-links-about {
+  list-style: none;
+  display: flex;
+  gap: 40px;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-links-about li a {
+  text-decoration: none;
+  color: #f4c2c2;
+  font-weight: bold;
+  font-size: 1.2rem;
+  transition: color 0.3s ease;
+}
+
+.nav-links-about li a:hover {
+  color: #597a5b;
+}
+
+
+
+
+.about-me-section {
+  background-color: #FFFEF9;
+  display: flex;
+  justify-content: center;
+}
+
+.about-me-wrapper {
+  max-width: 1000px;
+  width: 100%;
+}
+
+.about-me-heading {
+  font-size: 2.8rem;
+  color: #f4c2c2;
+  font-family: 'Playwright US Trad', serif;
+  text-align: center;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+
+.about-me-background {
+  background-color: #86A788 ;
+  padding: 60px;
+  border-radius: 25px;
+}
+
+.about-me-text {
+  font-size: 1.2rem;
+  line-height: 1.8;
+  font-family: 'Playwright US Trad', serif;
+  color: #FFFEF9;
+  text-align: left;
+}
+
+
+
+
+
+
+.about-me-row-section {
+  background-color: #FFFEF9;
+  padding: 80px 50px;
+  display: flex;
+  justify-content: center;
+}
+
+.about-me-row-wrapper {
+  max-width: 1000px; /* было меньше? увеличиваем! */
+  margin: 0 auto;
+  display: flex;
+  gap: 40px;
+  justify-content: space-between;
+}
+
+.about-column {
+  flex: 1;
+  border-radius: 20px;
+  padding: 40px;
+  background-color: #FFF3EF;
+}
+
+/* Текст слева */
+.about-text {
+  background-color: #FFF3EF;
+  font-family: 'Playwright US Trad', serif;
+  font-size: 1.1rem;
+  line-height: 1.7;
+  color: #86A788;
+}
+
+/* Кнопка справа */
+.about-download {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  background: transparent;
+  box-shadow: none;
+  padding: 0;
+  border-radius: 0;
+}
+
+
+
+.resume-heading {
+  font-size: 1.5rem;
+  color: #86A788;
+  margin-bottom: 20px;
+  font-family: 'Playwright US Trad', serif;
+}
+
+.resume-button {
+  padding: 12px 24px;
+  background-color: #FFF3EF;
+  color: #86A788;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 8px;
+  font-size: 1rem;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  font-family: 'Playwright US Trad', serif;
+}
+
+.resume-button:hover {
+  background-color: #f4c2c2;
+  transform: scale(1.05);
+}
+
+
+
+
+
+.footer-aboutme{
+  background-color: #86A788;
+  padding: 40px 80px;
+  color: #FFFEF9;
+}
+
+.footer-inline-aboutme {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  text-align: center;
+}
+
+/* Соцсети — слева */
+.footer-social-aboutme {
+  flex: 1;
+  text-align: left;
+}
+
+.footer-social-aboutme a {
+  margin: 0 8px;
+  font-size: 1.8rem;
+  color: #FFFEF9;
+  transition: color 0.3s ease;
+}
+
+.footer-social-aboutme a:hover {
+  color: #f4c2c2;
+}
+
+/* Логотип — по центру */
+.footer-logo-aboutme {
+  flex: 1;
+  text-align: center;
+}
+
+.footer-logo-aboutme img {
+  height: 60px;
+  width: auto;
+}
+
+/* Контакты — справа */
+.footer-contact-aboutme {
+  flex: 1;
+  text-align: right;
+}
+
+.footer-contact-aboutme p {
+  margin: 5px 0;
+  font-size: 1rem;
+  font-family: 'Playwright US Trad', serif;
+}
+
+
+
+
+
+
+
+
+
+@media (max-width: 768px) {
+
+  /* 🌿 ГЛАВНАЯ СТРАНИЦА — Header */
+  .main-nav {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 20px;
+  }
+
+  .nav-links {
+    flex-direction: column;
+    gap: 20px;
+    margin-top: 20px;
+  }
+
+  header-box {
+    width: 90%;
+    margin: 40px auto 0 auto;
+    padding: 20px;
+    height: auto;
+    display: block;
+  }
+
+  head-box-text {
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  head-box-text h1 {
+    font-size: 1.5rem;
+    text-align: center;
+  }
+
+  .peony-image img {
+    height: 120px;
+  }
+
+  .header-box {
+    width: 95%;
+    flex-direction: column;
+    height: auto;
+    padding: 30px 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .text {
+    width: auto;
+    max-width: 90%;
+    font-size: 0.9rem;
+    position: static;
+    margin: 10px auto;
+  }
+
+  .center-logo img {
+    height: 140px;
+  }
+
+  .categories {
+    grid-template-columns: 1fr;
+    gap: 40px;
+  }
+
+  .big-text {
+    font-size: 80px;
+  }
+
+  .section-logo img {
+    height: 160px;
+  }
+
+  .video-box {
+    width: 95%;
+    padding: 10px;
+  }
+
+  .button-container {
+    flex-direction: column;
+    gap: 15px;
+    margin-right: 50px;
+  }
+
+  .custom-button {
+    width: 90%;
+  }
+
+  .main-footer-about .footer-content,
+  .footer-content {
+    flex-direction: column;
+    gap: 20px;
+    text-align: center;
+    padding: 20px;
+  }
+
+  .footer-social,
+  .footer-logo,
+  .footer-contact {
+    justify-content: center;
+    flex: none;
+  }
+
+  .footer-logo img {
+    height: 50px;
+  }
+
+
+  /* 🌸 MY WORK СТРАНИЦА */
+
+  .main-nav-mywork,
+  .nav-container-mywork {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 20px;
+  }
+
+  .nav-links-mywork {
+    flex-direction: column;
+    gap: 15px;
+    align-items: flex-start;
+  }
+
+  .nav-links-mywork li a {
+    font-size: 1rem;
+  }
+
+  .work-title-mywork h1 {
+    font-size: 2.5rem;
+    text-align: center;
+  }
+
+  .button-grid-mywork {
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px;
+    align-items: center;
+  }
+
+  .mywork-button {
+    width: 90%;
+    font-size: 1.1rem;
+  }
+
+  .logos-grid,
+  .posters-grid,
+  .infographics-grid,
+  .uxui-row {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .logo-item,
+  .poster-item,
+  .infographic-item,
+  .uxui-card {
+    width: 90%;
+  }
+
+  .logos-title,
+  .posters-title,
+  .infographics-title,
+  .uxui-title {
+    font-size: 2rem;
+    margin: 40px 0 30px;
+  }
+
+  .footer-inline-mywork {
+    flex-direction: column;
+    text-align: center;
+    gap: 20px;
+    padding: 20px;
+  }
+
+  .footer-logo-mywork img {
+    height: 50px;
+  }
+
+  .footer-contact-mywork p {
+    font-size: 0.95rem;
+  }
+}
+
+
+@media (max-width: 768px) {
+
+  /* 🌿 Навигация */
+  .main-nav-about,
+  .nav-container-about {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 20px;
+  }
+
+  .nav-links-about {
+    flex-direction: column;
+    gap: 15px;
+    align-items: flex-start;
+    margin-top: 20px;
+  }
+
+  .nav-links-about li a {
+    font-size: 1rem;
+  }
+
+  .nav-logo-about img {
+    height: 40px;
+  }
+
+  
+  .about-me-heading {
+    font-size: 2rem;
+    margin: 30px 0;
+  }
+
+  .about-me-background {
+    padding: 30px;
+  }
+
+  .about-me-text {
+    font-size: 1rem;
+    line-height: 1.6;
+  }
+
+  
+  .about-me-row-wrapper {
+    flex-direction: column;
+    gap: 30px;
+  }
+
+  .about-column {
+    padding: 30px;
+  }
+
+  .resume-heading {
+    font-size: 1.2rem;
+    text-align: center;
+  }
+
+  .resume-button {
+    width: 90%;
+    text-align: center;
+    font-size: 1rem;
+  }
+
+  
+  .footer-inline-aboutme {
+    flex-direction: column;
+    text-align: center;
+    gap: 20px;
+    padding: 20px 10px;
+  }
+
+  .footer-logo-aboutme img {
+    height: 50px;
+  }
+
+  .footer-contact-aboutme p {
+    font-size: 0.95rem;
+  }
+
+  .footer-social-aboutme,
+  .footer-logo-aboutme,
+  .footer-contact-aboutme {
+    text-align: center;
+  }
+}
