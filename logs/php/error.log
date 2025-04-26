@@ -1,0 +1,144 @@
+[25-Apr-2025 18:29:38 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-includes/class-wp-customize-widgets.php on line 926
+[25-Apr-2025 18:45:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-content/themes/PolinaB-Portfolio/home-page.php:41
+Stack trace:
+#0 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-blog-header.php(19): require_once('/Users/polinaba...')
+#2 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/index.php(17): require('/Users/polinaba...')
+#3 {main}
+  thrown in /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-content/themes/PolinaB-Portfolio/home-page.php on line 41
+[25-Apr-2025 18:45:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-content/themes/PolinaB-Portfolio/home-page.php:41
+Stack trace:
+#0 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-blog-header.php(19): require_once('/Users/polinaba...')
+#2 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/index.php(17): require('/Users/polinaba...')
+#3 {main}
+  thrown in /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-content/themes/PolinaB-Portfolio/home-page.php on line 41
+[25-Apr-2025 18:45:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-content/themes/PolinaB-Portfolio/about-me.php:26
+Stack trace:
+#0 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-blog-header.php(19): require_once('/Users/polinaba...')
+#2 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/index.php(17): require('/Users/polinaba...')
+#3 {main}
+  thrown in /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-content/themes/PolinaB-Portfolio/about-me.php on line 26
+[25-Apr-2025 18:45:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-content/themes/PolinaB-Portfolio/my-work.php:27
+Stack trace:
+#0 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-blog-header.php(19): require_once('/Users/polinaba...')
+#2 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/index.php(17): require('/Users/polinaba...')
+#3 {main}
+  thrown in /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-content/themes/PolinaB-Portfolio/my-work.php on line 27
+[25-Apr-2025 18:49:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-content/themes/PolinaB-Portfolio/about-me.php:26
+Stack trace:
+#0 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-blog-header.php(19): require_once('/Users/polinaba...')
+#2 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/index.php(17): require('/Users/polinaba...')
+#3 {main}
+  thrown in /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-content/themes/PolinaB-Portfolio/about-me.php on line 26
+[25-Apr-2025 18:49:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-content/themes/PolinaB-Portfolio/home-page.php:41
+Stack trace:
+#0 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-blog-header.php(19): require_once('/Users/polinaba...')
+#2 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/index.php(17): require('/Users/polinaba...')
+#3 {main}
+  thrown in /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-content/themes/PolinaB-Portfolio/home-page.php on line 41
+[25-Apr-2025 18:49:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_field() in /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-content/themes/PolinaB-Portfolio/my-work.php:27
+Stack trace:
+#0 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-blog-header.php(19): require_once('/Users/polinaba...')
+#2 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/index.php(17): require('/Users/polinaba...')
+#3 {main}
+  thrown in /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-content/themes/PolinaB-Portfolio/my-work.php on line 27
+[25-Apr-2025 19:14:35 UTC] PHP Parse error:  syntax error, unexpected token "endforeach", expecting "elseif" or "else" or "endif" in /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-content/themes/PolinaB-Portfolio/my-work.php on line 103
+[25-Apr-2025 19:36:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function acf_add_options_page() in /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-content/themes/PolinaB-Portfolio/functions.php:24
+Stack trace:
+#0 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-settings.php(695): include()
+#1 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-config.php(103): require_once('/Users/polinaba...')
+#2 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-load.php(50): require_once('/Users/polinaba...')
+#3 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/polinaba...')
+#4 {main}
+  thrown in /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-content/themes/PolinaB-Portfolio/functions.php on line 24
+[25-Apr-2025 19:36:16 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-includes/class-wp-recovery-mode-email-service.php on line 367
+[25-Apr-2025 19:36:16 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-includes/class-wp-recovery-mode-email-service.php on line 368
+[25-Apr-2025 19:36:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function acf_add_options_page() in /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-content/themes/PolinaB-Portfolio/functions.php:24
+Stack trace:
+#0 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-settings.php(695): include()
+#1 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-config.php(103): require_once('/Users/polinaba...')
+#2 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-load.php(50): require_once('/Users/polinaba...')
+#3 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-admin/admin.php(35): require_once('/Users/polinaba...')
+#4 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-admin/edit.php(10): require_once('/Users/polinaba...')
+#5 {main}
+  thrown in /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-content/themes/PolinaB-Portfolio/functions.php on line 24
+[25-Apr-2025 19:36:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function acf_add_options_page() in /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-content/themes/PolinaB-Portfolio/functions.php:24
+Stack trace:
+#0 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-settings.php(695): include()
+#1 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-config.php(103): require_once('/Users/polinaba...')
+#2 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-load.php(50): require_once('/Users/polinaba...')
+#3 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-admin/admin.php(35): require_once('/Users/polinaba...')
+#4 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-admin/edit.php(10): require_once('/Users/polinaba...')
+#5 {main}
+  thrown in /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-content/themes/PolinaB-Portfolio/functions.php on line 24
+[25-Apr-2025 19:36:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function acf_add_options_page() in /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-content/themes/PolinaB-Portfolio/functions.php:24
+Stack trace:
+#0 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-settings.php(695): include()
+#1 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-config.php(103): require_once('/Users/polinaba...')
+#2 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-load.php(50): require_once('/Users/polinaba...')
+#3 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-admin/admin.php(35): require_once('/Users/polinaba...')
+#4 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-admin/edit.php(10): require_once('/Users/polinaba...')
+#5 {main}
+  thrown in /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-content/themes/PolinaB-Portfolio/functions.php on line 24
+[25-Apr-2025 19:36:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function acf_add_options_page() in /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-content/themes/PolinaB-Portfolio/functions.php:24
+Stack trace:
+#0 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-settings.php(695): include()
+#1 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-config.php(103): require_once('/Users/polinaba...')
+#2 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-load.php(50): require_once('/Users/polinaba...')
+#3 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/polinaba...')
+#4 {main}
+  thrown in /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-content/themes/PolinaB-Portfolio/functions.php on line 24
+[25-Apr-2025 19:36:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function acf_add_options_page() in /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-content/themes/PolinaB-Portfolio/functions.php:24
+Stack trace:
+#0 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-settings.php(695): include()
+#1 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-config.php(103): require_once('/Users/polinaba...')
+#2 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-load.php(50): require_once('/Users/polinaba...')
+#3 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-admin/admin.php(35): require_once('/Users/polinaba...')
+#4 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-admin/index.php(10): require_once('/Users/polinaba...')
+#5 {main}
+  thrown in /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-content/themes/PolinaB-Portfolio/functions.php on line 24
+[25-Apr-2025 19:38:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function acf_add_options_page() in /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-content/themes/PolinaB-Portfolio/functions.php:24
+Stack trace:
+#0 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-settings.php(695): include()
+#1 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-config.php(103): require_once('/Users/polinaba...')
+#2 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-load.php(50): require_once('/Users/polinaba...')
+#3 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/polinaba...')
+#4 {main}
+  thrown in /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-content/themes/PolinaB-Portfolio/functions.php on line 24
+[25-Apr-2025 19:39:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function acf_add_options_page() in /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-content/themes/PolinaB-Portfolio/functions.php:26
+Stack trace:
+#0 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-includes/class-wp-hook.php(324): {closure}(6)
+#1 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-content/plugins/advanced-custom-fields/acf.php(426): do_action('acf/init', 6)
+#4 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-includes/class-wp-hook.php(324): ACF->init('')
+#5 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#6 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-settings.php(727): do_action('init')
+#8 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-config.php(103): require_once('/Users/polinaba...')
+#9 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-load.php(50): require_once('/Users/polinaba...')
+#10 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-admin/admin.php(35): require_once('/Users/polinaba...')
+#11 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-admin/index.php(10): require_once('/Users/polinaba...')
+#12 {main}
+  thrown in /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-content/themes/PolinaB-Portfolio/functions.php on line 26
+[25-Apr-2025 19:40:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function acf_add_options_page() in /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-content/themes/PolinaB-Portfolio/functions.php:26
+Stack trace:
+#0 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-includes/class-wp-hook.php(324): {closure}(6)
+#1 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-content/plugins/advanced-custom-fields/acf.php(426): do_action('acf/init', 6)
+#4 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-includes/class-wp-hook.php(324): ACF->init('')
+#5 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#6 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-settings.php(727): do_action('init')
+#8 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-config.php(103): require_once('/Users/polinaba...')
+#9 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-load.php(50): require_once('/Users/polinaba...')
+#10 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/polinaba...')
+#11 {main}
+  thrown in /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-content/themes/PolinaB-Portfolio/functions.php on line 26
