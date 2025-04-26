@@ -458,8 +458,14 @@ footer p{margin-top:20px;font-size:.9rem;color:#FFFEF9;font-family:'Playwright U
   .section-logo img{height:160px}
   .video-box{width:95%;padding:10px}
   .button-container{flex-direction:column;gap:15px}
-  .custom-button{width:90%}
+  .custom-button{width:90%;text-align: center;}
   .footer-content{flex-direction:column;gap:20px;text-align:center;padding:20px}
+  .button-container {
+    display: flex;               /* включаем flex-контейнер */
+    justify-content: center;     /* выравниваем по горизонтали */
+    align-items: center;         /* выравниваем по вертикали (необязательно) */
+  }
+  
 
   /* My Work */
   .nav-container-mywork{flex-direction:column;align-items:flex-start;padding:20px}
