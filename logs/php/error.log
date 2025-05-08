@@ -142,3 +142,5 @@ Stack trace:
 #10 /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/polinaba...')
 #11 {main}
   thrown in /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-content/themes/PolinaB-Portfolio/functions.php on line 26
+[02-May-2025 14:12:11 UTC] PHP Parse error:  syntax error, unexpected token ";" in /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-content/themes/PolinaB-Portfolio/home-page.php on line 147
+[02-May-2025 14:12:54 UTC] PHP Parse error:  Unclosed '{' on line 122 in /Users/polinabarannyk/Local Sites/polinab-portfolio/app/public/wp-content/themes/PolinaB-Portfolio/home-page.php on line 208

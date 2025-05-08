@@ -305,6 +305,15 @@ head-box-text h1{
 }
 .mywork-button:hover{background:#f4c2c2;transform:scale(1.05)}
 
+.work-description {
+  margin-top: 10px;
+  font-size: 14px;
+  color: #444;
+  text-align: center;
+  line-height: 1.4;
+}
+
+
 .logos-section-mywork,
 .posters-section-mywork,
 .infographics-section-mywork,
@@ -337,7 +346,13 @@ head-box-text h1{
 .poster-item img,
 .infographic-item img{width:100%;border-radius:8px}
 
-.uxui-row{display:flex;justify-content:center;gap:40px;flex-wrap:wrap;margin-bottom:40px}
+.uxui-row{
+  display:flex;
+  justify-content:center;
+  gap:40px;
+  flex-wrap:wrap;
+  margin-bottom:50px
+}
 .uxui-card{
   width:380px;
   background:#FFF3EF;
@@ -347,13 +362,72 @@ head-box-text h1{
 }
 .uxui-card img{width:100%;border-radius:8px}
 
-/* —— My-Work footer —— */
-.footer-mywork{background:#86A788;padding:40px 80px;color:#FFFEF9}
-.footer-inline-mywork{
-  display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;text-align:center;
+
+/* Грид описаний */
+.logos-description-grid,
+.posters-description-grid,
+.infographics-description-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+  justify-content: center;
+  margin-bottom: 50px;
+  margin-top: 50px;
 }
-.footer-social-mywork{flex:1;text-align:left}
-.footer-social-mywork a{margin:0 8px;font-size:1.8rem;color:#FFFEF9;transition:color .3s ease}
+
+/* Блок описания */
+.logo-description,
+.poster-description,
+.infographic-description {
+  width: 300px;
+  text-align: center;
+  font-size: 14px;
+  color: #FFF3EF;
+  background-color: #86A788;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+  line-height: 1.4;
+}
+
+.uxui-description-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+  justify-content: center;
+  margin-bottom: 50px;
+}
+
+.uxui-description {
+  width: 380px;
+  text-align: center;
+  font-size: 14px;
+  color: #FFF3EF;
+  background-color: #86A788;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+  line-height: 1.4;
+}
+
+
+/* —— My-Work footer —— */
+.footer-mywork{background:#86A788;
+  padding:40px 80px;
+  color:#FFFEF9}
+.footer-inline-mywork{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  flex-wrap:wrap;
+  text-align:center;
+}
+.footer-social-mywork{
+  flex:1;
+  text-align:left
+}
+.footer-social-mywork a{margin:0 8px;
+  font-size:1.8rem;color:#FFFEF9;transition:color .3s ease}
 .footer-social-mywork a:hover{color:#f4c2c2}
 .footer-logo-mywork{flex:1;text-align:center}
 .footer-logo-mywork img{height:60px;width:auto}
